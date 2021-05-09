@@ -1,1 +1,1 @@
-# 30daysdata
+# 30days of data science
