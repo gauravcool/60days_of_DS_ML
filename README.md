@@ -1,1 +1,1 @@
-# 60days of data science and machine learning
+# 60 days of data science and Machine Learning
